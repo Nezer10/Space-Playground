@@ -1,0 +1,8 @@
+{
+  "name": "Orbital Earth",
+  "description": "Interactive 2D orbital exploration experience around Earth featuring continuously animated celestial cards, hover freeze, and rich scientific telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
